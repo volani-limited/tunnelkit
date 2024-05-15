@@ -1,3 +1,8 @@
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/passepartoutvpn/tunnelkit/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/passepartoutvpn/tunnelkit)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:dbf6ed6b12f489be13842486890584e0d301b923/)](https://archive.softwareheritage.org/swh:1:dir:dbf6ed6b12f489be13842486890584e0d301b923;origin=https://github.com/passepartoutvpn/tunnelkit;visit=swh:1:snp:064f677a230670b8d04631c879d3eb97518357f6;anchor=swh:1:rev:339b509ddfd2838ee348d186e9a3016b0f8f447d)
+
+# ! This repository is a copy of the archive saved by Software Heritage on 12 March 2024, 20:47:59 UTC
+
 ![iOS 15+](https://img.shields.io/badge/ios-15+-green.svg)
 ![macOS 12+](https://img.shields.io/badge/macos-12+-green.svg)
 ![tvOS 17+](https://img.shields.io/badge/tvos-17+-green.svg)
