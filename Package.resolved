@@ -1,15 +1,6 @@
 {
   "pins" : [
     {
-      "identity" : "openssl-apple",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/passepartoutvpn/openssl-apple",
-      "state" : {
-        "revision" : "026702febcaebcbf9ea68f2fa66b017eba998cdf",
-        "version" : "3.2.105"
-      }
-    },
-    {
       "identity" : "swiftybeaver",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SwiftyBeaver/SwiftyBeaver",
@@ -21,10 +12,10 @@
     {
       "identity" : "wireguard-apple",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/passepartoutvpn/wireguard-apple",
+      "location" : "https://github.com/volani-limited/wireguard-apple",
       "state" : {
-        "branch" : "develop",
-        "revision" : "b79f0f150356d8200a64922ecf041dd020140aa0"
+        "branch" : "master",
+        "revision" : "d6632ca5905e471c0fcde75bb08e870b44ec972c"
       }
     }
   ],
