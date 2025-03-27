@@ -8,15 +8,6 @@
         "revision" : "12b5acf96d98f91d50de447369bd18df74600f1a",
         "version" : "1.9.6"
       }
-    },
-    {
-      "identity" : "wireguard-apple",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/volani-limited/wireguard-apple",
-      "state" : {
-        "branch" : "master",
-        "revision" : "d6632ca5905e471c0fcde75bb08e870b44ec972c"
-      }
     }
   ],
   "version" : 2
